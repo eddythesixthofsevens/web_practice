@@ -4,6 +4,7 @@ body {
     color:black;
     text-align: center;
     font-size: 16px;
+    cursor: src="kabo's cousin.jpg";
 }
 
 h1 {
@@ -35,3 +36,8 @@ img{
     border-radius: 8px;
     width: 700px;
 }
+h1:hover {
+    color: coral;
+}
+
+background-image: url(background.webp);
